@@ -1,6 +1,11 @@
-# hangman
+# Hangman
 
-A new Flutter project.
+Gra - Wisielec.
+
+![Screen_1](https://github.com/dejwid03/hangman/blob/main/screenshots/Screenshot_1715029788.png)
+![Screen_2](https://github.com/dejwid03/hangman/blob/main/screenshots/Screenshot_1715029753.png)
+![Screen_3](https://github.com/dejwid03/hangman/blob/main/screenshots/Screenshot_1715029814.png)
+![Screen_4](https://github.com/dejwid03/hangman/blob/main/screenshots/Screenshot_1715029827.png)
 
 ## Getting Started
 
